@@ -28,7 +28,7 @@ html {
 	}
 }
 
-.icons-social i {
+.icons-social a {
 	font-size: 3em;
 }
 
@@ -55,7 +55,7 @@ main > .tagline {
 	font-weight: 100;
 }
 
-.icons-social i {
+.icons-social a {
 	padding: 10px;
 }
 
